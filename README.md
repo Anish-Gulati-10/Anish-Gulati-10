@@ -1,4 +1,4 @@
- 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anish-gulati-10&label=Profile%20views&color=0e75b6&style=flat" alt="uzma3009" /> </p> 
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
 <h1 align="center">Hi 👋🏻, I'm Anish Gulati</h1>
 
@@ -30,7 +30,7 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
-<a href="https://git.io/streak-stats" align="center"><img src="https://streak-stats.demolab.com?user=anish-gulati-10&theme=transparent" alt="GitHub Streak" align="center"/></a>
+<a href="#" align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anish-gulati-10&show_icons=true&locale=en" alt="Anish Gulati" /></a>
 </td>
 <td width="50%" align="center">
 <a href="#" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anish-gulati-10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages Used" align="center"/></a>
