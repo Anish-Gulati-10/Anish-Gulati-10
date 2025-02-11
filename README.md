@@ -6,7 +6,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **next.js**
+- 🌱 I’m currently learning **React-Native**
 
 - 💬 Ask me about **JavaScript, React, Nextjs, Node.js and any general software development questions.**
 
@@ -32,9 +32,9 @@
 <td width="50%" align="left">
 <a href="#" align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anish-gulati-10&show_icons=true&locale=en" alt="Anish Gulati" /></a>
 </td>
-<td width="50%" align="center">
+<!-- <td width="50%" align="center">
 <a href="#" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anish-gulati-10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages Used" align="center"/></a>
-  </td>
+  </td> -->
 </tr>
 </table>
 
