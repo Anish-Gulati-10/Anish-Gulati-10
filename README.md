@@ -24,14 +24,13 @@
 </tr>
 </table>
 <br>
-<br>
 
-<h2 align="center">Statistics</h2>
+<!-- <h2 align="center">Statistics</h2>
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
 <a href="#" align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anish-gulati-10&show_icons=true&locale=en" alt="Anish Gulati" /></a>
-</td>
+</td> -->
 <!-- <td width="50%" align="center">
 <a href="#" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anish-gulati-10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages Used" align="center"/></a>
   </td> -->
@@ -42,6 +41,7 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=js,mongodb,express,react,nodejs,mysql,fastapi,ts,nextjs,html,css,tailwind,cpp,python&perline=7">
 </p>
+<br>
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
